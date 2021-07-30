@@ -30,7 +30,8 @@ h1{
 
 }
 .message{
-    background-color: rgb(185, 177, 177);
+    background-color: rgb(238, 25, 25);
+    color: white;
     width: 24%;
     padding: 10px;
     margin: 17px 2px;
